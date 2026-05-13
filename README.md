@@ -16,6 +16,9 @@ O dashboard foi desenvolvido para atender às seguintes necessidades de negócio
 - Explorar a distribuição geográfica das vendas  
 - Identificar padrões de consumo e tendências  
 
+<img width="1573" height="883" alt="{81692C80-293D-4BC6-8E22-4955EC4D14A3}" src="https://github.com/user-attachments/assets/e82dda29-8bb6-49a7-b857-4a59be9ac9d1" />
+
+
 ***
 
 ## 📊 Principais Análises
